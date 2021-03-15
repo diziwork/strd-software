@@ -94,10 +94,4 @@ Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sad
 </p>
 </details>
 <br>
-<details>
-  <summary>Masaüstü Geliştirme</summary>
-<br>
-<p>coming soon</p>
-</details>
-<br>
 
