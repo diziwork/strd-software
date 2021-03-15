@@ -8,8 +8,9 @@
   <summary>Web Geliştirme (Ön Uç)</summary>
 <br>
 <li>HTML
-> Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
 </li>
+> Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+>dghdh
 <li>CSS</li>
 <li>JAVASCRİPT</li>
 
