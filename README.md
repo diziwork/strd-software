@@ -69,7 +69,7 @@ margin:0;
 
 <details>
   <summary>PHP</summary>
-<br>Daha önce de belirttiğimiz gibi PHP sunucu taraflı iletişimler için yaratılmış bir programlama dilidir. Bu nedenle form verisi toplamak, sunucuda dosya yönetmek, veritabanlarını düzenlemek vb. gibi çeşitli sunucu taraflı fonksiyonları yapabilir. ("Diziwork sitesi yapılırken Backend olarak kullanılan dil")
+<br>Daha önce de belirttiğimiz gibi PHP sunucu taraflı iletişimler için yaratılmış bir programlama dilidir. Bu nedenle form verisi toplamak, sunucuda dosya yönetmek, veritabanlarını düzenlemek vb. gibi çeşitli sunucu taraflı fonksiyonları yapabilir. (Diziwork sitesi yapılırken Backend olarak kullanılan dil)
 <br><br>
 İlgili Ders Videoları ;
 <hr>
