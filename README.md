@@ -11,7 +11,7 @@
 
 <details>
   <summary>HTML</summary>
-Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+<br>Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
 <br><br>
 İlgili Ders Videoları ;
 <hr>
