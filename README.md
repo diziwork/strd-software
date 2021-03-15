@@ -1,7 +1,7 @@
 ## STRD369 Software
 ### Yol Haritamız
 <br>
-İlk öncelikle hangi alanda ilerleyeceğinize karar vermelisiniz Seçeneklerimiz;
+İlk öncelikle hangi alanda ilerleyeceğinize karar vermelisiniz seçenekler;
 <br><br>
 <details>
   <summary>Web Geliştirme (Ön Uç)</summary>
