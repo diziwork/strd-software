@@ -100,8 +100,4 @@ Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sad
 <p>coming soon</p>
 </details>
 <br>
-<details>
-  <summary>coming soon</summary>
-<br>
-<p>sfgsf</p>
-</details>
+
