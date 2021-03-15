@@ -63,7 +63,7 @@ margin:0;
 <br>
 <details>
   <summary>Web Geliştirme (Arka Uç)</summary>
-<br>
+
 <p>
 
 <details>
