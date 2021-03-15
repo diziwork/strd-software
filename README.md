@@ -17,9 +17,10 @@
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm"
+https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm</a>
 <br>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR">https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR</a>
 <br><br>
 </details>
 
@@ -42,9 +43,9 @@ margin:0;
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="">https://mestoness.github.io/renadme-generator/</a>
+<a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I">https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I</a>
 <br>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr">https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr</a>
 <br><br>
 </details>
 <details>
@@ -53,9 +54,9 @@ margin:0;
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8">https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8</a>
 <br>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/watch?v=iEG2LSTZ23g&list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD">https://www.youtube.com/watch?v=iEG2LSTZ23g&list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD</a>
 <br><br>
 </details>
 </p>
@@ -72,9 +73,9 @@ margin:0;
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/watch?v=oYw69st2kiI&list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa">https://www.youtube.com/watch?v=oYw69st2kiI&list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa</a>
 <br>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="https://www.youtube.com/watch?v=Y4li4PlYIDk&list=PLoY87WXgjMpHI71iLDCmLBgplCOZoQ7XD">https://www.youtube.com/watch?v=Y4li4PlYIDk&list=PLoY87WXgjMpHI71iLDCmLBgplCOZoQ7XD</a>
 <br><br>
 </details>
 
@@ -86,12 +87,11 @@ Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sad
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="">Eklenicek</a>
 <br>
-<a href="">https://mestoness.github.io/readme-generator/</a>
+<a href="">Eklenicek</a>
 <br><br>
 </details>
 </p>
 </details>
 <br>
-
