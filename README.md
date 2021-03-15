@@ -50,7 +50,7 @@ margin:0;
 </details>
 <details>
   <summary>JAVASCRİPT</summary>
-<br>Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+<br>Günümüzde en popüler programlama dilleri arasında yer alan JavaScript birçok alanda kullanılır birçok şey yapılır gerçek bir programlama dilidir bu dil ile Arka Uç geliştirme işlemleri dahi yapılabilir en çok sevdiğim dilden bir tanesidir
 <br><br>
 İlgili Ders Videoları ;
 <hr>
