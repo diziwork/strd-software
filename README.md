@@ -1,12 +1,18 @@
 ## STRD369 Software
 ### Yol Haritamız
 <br>
+
 İlk öncelikle hangi alanda ilerleyeceğinize karar vermelisiniz seçenekler;
 <br><br>
 <details>
   <summary>Web Geliştirme (Ön Uç)</summary>
 <br>
-<p>sfgsf</p>
+<li>HTML
+> Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+</li>
+<li>CSS</li>
+<li>JAVASCRİPT</li>
+
 </details>
 <br>
 <details>
