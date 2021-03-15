@@ -17,7 +17,7 @@
 <br><br>
 İlgili Ders Videoları ;
 <hr>
-<a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm"
+<a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm">
 https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm</a>
 <br>
 <a href="https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR">https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR</a>
