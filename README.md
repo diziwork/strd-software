@@ -6,7 +6,6 @@
 <br><br>
 <details>
   <summary>Web Geliştirme (Ön Uç)</summary>
-<br>
 <p>
 
 <details>
