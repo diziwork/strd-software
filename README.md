@@ -27,12 +27,13 @@
   <summary>CSS</summary>
 <br>Üstünde bayağı bir durulması gerekilen bir Stil yapılandırma dilidir hemen hemen her web sayfası bu dil ile tasarlanır Facebooktan tutun Netflixe kadar bu dilde en önemli şey her dilde olduğu gibi öğrendikten sonra bol bol alıştırma örnek yapmak sonuçta tasarım işi alıştırma yapılarak üstüne basılarak daha iyi öğrenilir bu dili öğrenirken not almanızı öneriririm örnek vermek gerekirse
 <br>
- ```
+  
+``` css
 //margin : Seçilen nesneye elemente dışarıdan boşluk verir
 body {
 margin:0;
 } 
- ``` 
+``` 
 <br><br>
 İlgili Ders Videoları ;
 <hr>
