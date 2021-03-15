@@ -7,13 +7,43 @@
 <details>
   <summary>Web Geliştirme (Ön Uç)</summary>
 <br>
-<li>HTML
-</li>
-> Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
->dghdh
-<li>CSS</li>
-<li>JAVASCRİPT</li>
+<p>
 
+<details>
+  <summary>HTML</summary>
+Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+<br><br>
+İlgili Ders Videoları ;
+<hr>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br><br>
+</details>
+
+<details>
+  <summary>CSS</summary>
+Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+<br><br>
+İlgili Ders Videoları ;
+<hr>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br><br>
+</details>
+<details>
+  <summary>JAVASCRİPT</summary>
+Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
+<br><br>
+İlgili Ders Videoları ;
+<hr>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br><br>
+</details>
+</p>
 </details>
 <br>
 <details>
