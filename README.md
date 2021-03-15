@@ -99,7 +99,7 @@ Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sad
   <summary>İşinize yaracak birkaç şey</summary>
   
   <p><br>
-  Editör<hr>
+  Editör <br>
   <a href="https://notepad-plus-plus.org/">Notepadd++</a>  <br>
   <a href="https://www.sublimetext.com/">Sublime Text</a>
  <br>
