@@ -29,7 +29,11 @@
 <br>
   
 ``` css
-/*margin : Seçilen nesneye elemente dışarıdan boşluk verir*/
+
+/*
+margin : Seçilen nesneye elemente dışarıdan boşluk verir
+*/
+
 body {
 margin:0;
 } 
