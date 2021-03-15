@@ -19,7 +19,7 @@
 <hr>
 <a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm">
 https://www.youtube.com/playlist?list=PLfAfrKyDRWrG7tK01yW92A2j7Ou0qpOFm</a>
-<br>
+<br><br>
 <a href="https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR">https://www.youtube.com/playlist?list=PLDnjqQ64uPKaMjG8pKSAe9D0IRXITiJGR</a>
 <br><br>
 </details>
@@ -44,7 +44,7 @@ margin:0;
 İlgili Ders Videoları ;
 <hr>
 <a href="https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I">https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I</a>
-<br>
+<br><br>
 <a href="https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr">https://www.youtube.com/playlist?list=PLkDTLUcoIKU3wjpmdgU0YjqcUyOSfCwOr</a>
 <br><br>
 </details>
@@ -55,7 +55,7 @@ margin:0;
 İlgili Ders Videoları ;
 <hr>
 <a href="https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8">https://www.youtube.com/watch?v=CPcpcqaQRvw&list=PLY20HpFruiK12kqke7T5OQVu1BK2ELQL8</a>
-<br>
+<br><br>
 <a href="https://www.youtube.com/watch?v=iEG2LSTZ23g&list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD">https://www.youtube.com/watch?v=iEG2LSTZ23g&list=PL-Hkw4CrSVq_NyzNPVyyg-KIyhlfXsTlD</a>
 <br><br>
 </details>
@@ -74,7 +74,7 @@ margin:0;
 İlgili Ders Videoları ;
 <hr>
 <a href="https://www.youtube.com/watch?v=oYw69st2kiI&list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa">https://www.youtube.com/watch?v=oYw69st2kiI&list=PLZtkgIR0fgTF-J55mgaNUK7uFvzFzgpGa</a>
-<br>
+<br><br>
 <a href="https://www.youtube.com/watch?v=Y4li4PlYIDk&list=PLoY87WXgjMpHI71iLDCmLBgplCOZoQ7XD">https://www.youtube.com/watch?v=Y4li4PlYIDk&list=PLoY87WXgjMpHI71iLDCmLBgplCOZoQ7XD</a>
 <br><br>
 </details>
@@ -100,10 +100,10 @@ Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sad
   
   <p><br>
  
-  <a href="https://notepad-plus-plus.org/">Notepadd++</a>  <br>
-  <a href="https://www.sublimetext.com/">Sublime Text</a>
+  <a href="https://notepad-plus-plus.org/">Notepadd++</a>  <br><br>
+  <a href="https://www.sublimetext.com/">Sublime Text</a><br>
  <br>
-  <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  <a href="https://code.visualstudio.com/">Visual Studio Code</a><br>
   
   </p>
   
