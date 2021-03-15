@@ -28,7 +28,8 @@
 <br>Üstünde bayağı bir durulması gerekilen bir Stil yapılandırma dilidir hemen hemen her web sayfası bu dil ile tasarlanır Facebooktan tutun Netflixe kadar bu dilde en önemli şey her dilde olduğu gibi öğrendikten sonra bol bol alıştırma örnek yapmak sonuçta tasarım işi alıştırma yapılarak üstüne basılarak daha iyi öğrenilir bu dili öğrenirken not almanızı öneriririm örnek vermek gerekirse
 <br><br>
 
-```css
+  
+``` css
 
 /*
 margin : Seçilen nesneye elemente dışarıdan boşluk verir
@@ -36,12 +37,10 @@ margin : Seçilen nesneye elemente dışarıdan boşluk verir
 
 body {
 margin:0;
-}
-```
-
+} 
+``` 
 <br><br>
 İlgili Ders Videoları ;
-
 <hr>
 <a href="">https://mestoness.github.io/renadme-generator/</a>
 <br>
@@ -50,7 +49,7 @@ margin:0;
 </details>
 <details>
   <summary>JAVASCRİPT</summary>
-<br>Günümüzde en popüler programlama dilleri arasında yer alan JavaScript birçok alanda kullanılır birçok şey yapılır gerçek bir programlama dilidir bu dil ile Arka Uç geliştirme işlemleri dahi yapılabilir en çok sevdiğim dilden bir tanesidir
+<br>Kolay öğrenebilen bir etiketleme dilidir herşeyin başı bunla başlar maximun 1 haftada çözülebilir
 <br><br>
 İlgili Ders Videoları ;
 <hr>
@@ -65,17 +64,44 @@ margin:0;
 <details>
   <summary>Web Geliştirme (Arka Uç)</summary>
 <br>
-<p>sfgsf</p>
+<p>
+
+<details>
+  <summary>PHP</summary>
+<br>Daha önce de belirttiğimiz gibi PHP sunucu taraflı iletişimler için yaratılmış bir programlama dilidir. Bu nedenle form verisi toplamak, sunucuda dosya yönetmek, veritabanlarını düzenlemek vb. gibi çeşitli sunucu taraflı fonksiyonları yapabilir. ("Diziwork sitesi yapılırken Backend olarak kullanılan dil")
+<br><br>
+İlgili Ders Videoları ;
+<hr>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br><br>
+</details>
+
+<details>
+  <summary>Node JS (Benim için en iyisi ve en popüler)</summary>
+<br>Node.js temel olarak sunucu tarafında çalışan javascripttir. Javascript temelli olması sebebiyle çok dinamik ve hızlı yapısı vardır.
+Javascript dilinin Node.js vasıtasıyla Back-end’e taşınmasıyla artık sadece bir dil bilerek full-stack uygulama geliştirebilirsiniz. Zaten son dönemde artık React gibi Javascript Front-End kütüphane ve framework’leri de ciddi seviyede popüler olmaya başladı.
+Örneğin şu an C#, Java, Python, Ruby, Php gibi ekstra bir dil öğrenmeye gerek kalmadan sadece Javascript bilerek Node ve React ile full-stack web uygulamaları geliştirebilirsiniz. Bir startup fikriniz varsa Node ve React ile hızlıca MVP geliştirip yayınlayabilirsiniz.
+<br><br>
+İlgili Ders Videoları ;
+<hr>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br>
+<a href="">https://mestoness.github.io/readme-generator/</a>
+<br><br>
+</details>
+</p>
 </details>
 <br>
 <details>
   <summary>Masaüstü Geliştirme</summary>
 <br>
-<p>sfgsf</p>
+<p>coming soon</p>
 </details>
 <br>
 <details>
-  <summary>Mobil Geliştirme</summary>
+  <summary>coming soon</summary>
 <br>
 <p>sfgsf</p>
 </details>
